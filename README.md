@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MEARN Full Stack Development**
+- 🌱 I’m currently working as a **Front-end Development**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,ReactJS**
+- 💬 Ask me about **HTML,CSS,JavaScript,TypeScript,ReactJS,NextJS,React-Native,Firebase**
 
 - 📫 How to reach me **rajlyf18@gmail.com**
 
