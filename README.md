@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rajlyf18@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kkb8kagwMY-YVHCGmtM80Myo2ZdcqVGa/view?usp=share_link](https://drive.google.com/file/d/1kkb8kagwMY-YVHCGmtM80Myo2ZdcqVGa/view?usp=share_link)
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1kkb8kagwMY-YVHCGmtM80Myo2ZdcqVGa/view?usp=share_link](https://drive.google.com/file/d/1ngCjFbMvMXnL53pD3igQz4CbEj57-tVG/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
