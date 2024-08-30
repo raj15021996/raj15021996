@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently working as a **Front-end Development**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,TypeScript,ReactJS,NextJS,React-Native,Firebase**
-
-- 📫 How to reach me **rajlyf18@gmail.com**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, React-Native, Firebase, GraphQl**
+ 
+- 📫 How to reach me **rajlyf18@gmail.com** or **rjsingh.rk@gmail.com**
 
 - 📄 Know about my experiences ([https://drive.google.com/file/d/1ngCjFbMvMXnL53pD3igQz4CbEj57-tVG/view?usp=sharing](https://drive.google.com/file/d/1qA1JU1R4008niE-6XvDe1mBUFOvb4WFH/view?usp=drivesdk))
 
