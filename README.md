@@ -13,7 +13,7 @@
  
 - 📫 How to reach me **rajlyf18@gmail.com** or **rjsingh.rk@gmail.com**
 
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1g-f0bRMzFAMB5NQ2DrfI5yqIroYNRRM-/view?usp=sharing](https://drive.google.com/file/d/1g-f0bRMzFAMB5NQ2DrfI5yqIroYNRRM-/view))
+- 📄 Know about my experiences ([raj-resume](https://drive.google.com/file/d/1g-f0bRMzFAMB5NQ2DrfI5yqIroYNRRM-/view))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
