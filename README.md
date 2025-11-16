@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently working as a **Front-end Development**
+- 🌱 I’m currently working as a **Senior Software Development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, React-Native, Firebase, GraphQl**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, React-Native, Firebase, GraphQl, Asw-amplify**
  
 - 📫 How to reach me **rajlyf18@gmail.com** or **rjsingh.rk@gmail.com**
 
