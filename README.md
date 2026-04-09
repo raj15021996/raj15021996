@@ -14,8 +14,8 @@
 - 📫 How to reach me **rajlyf18@gmail.com** or **rjsingh.rk@gmail.com**
 
 - 📄 Know about my experiences
-  📄 Resume ([raj-resume](https://drive.google.com/file/d/1SBZ5AE_Ddo-vZJZV3k5yC1Jy_6PVS9Wj/view?usp=drive_link))
-  🚀 Portpolio ([portpolio](https://portpolio-inky.vercel.app/))
+  📄 Resume ([raj-resume](https://drive.google.com/file/d/1m6h0Mi5NNL9UKoh9vprpG1GY23iMsxVQ/view))
+  🚀 Portpolio ([portfolio](https://portpolio-inky.vercel.app/))
 
 
 <h3 align="left">Connect with me:</h3>
