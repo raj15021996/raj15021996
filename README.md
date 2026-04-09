@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences
   📄 Resume ([raj-resume](https://drive.google.com/file/d/1m6h0Mi5NNL9UKoh9vprpG1GY23iMsxVQ/view))
-  🚀 Portpolio ([portfolio](https://portpolio-inky.vercel.app/))
+  🚀 Portfolio ([portfolio](https://my-portfolio-blond-seven-47.vercel.app))
 
 
 <h3 align="left">Connect with me:</h3>
